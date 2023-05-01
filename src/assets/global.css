@@ -2,6 +2,9 @@
 
 :root {
     --bg: #e9e4e4;
+    --list-bg: white;
+    --salary:#1fb25c;
+    --dark:#333;
 }
 body {
     background: var(--bg);

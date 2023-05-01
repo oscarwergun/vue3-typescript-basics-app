@@ -43,6 +43,16 @@ Ref property with
   const age = ref<number>(25)
 
   return {title ,age}
-
-
+```
+### PASS PROPS THROUGH INTO CHILD COMPONENT
+```
+export default defineComponent({
+    name: "JobList",
+    props: {
+        jobs: {
+            required: true,
+            type: Array as PropType<Job[]>
+        }
+    }
+})
 ```
