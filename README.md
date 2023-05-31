@@ -1,5 +1,6 @@
 See [Deploy website on Netlify](https://fanciful-chimera-360946.netlify.app/)
-![Preview Website!](https://fanciful-chimera-360946.netlify.app/)
+<img width="1722" alt="Screenshot 2023-05-31 at 15 51 18" src="https://github.com/oscarwergun/vue3-typescript-basics-app/assets/127099022/c1ecf1e3-57cc-4245-9131-a7e69c1b4d99">
+
 # job-viewer
 
 ## Project setup
