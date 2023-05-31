@@ -1,3 +1,5 @@
+See [Deploy website on Netlify](https://fanciful-chimera-360946.netlify.app/)
+
 # job-viewer
 
 ## Project setup
